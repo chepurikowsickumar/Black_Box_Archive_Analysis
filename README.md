@@ -222,7 +222,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 📧 Contact
 For questions, suggestions, or support:
 - GitHub Issues: Create an issue
-- Email: densinglm10@gmail.com
+- Email: kaushiksathya06@gmail.com
 
 ---
 
